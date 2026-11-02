@@ -11,7 +11,7 @@
 
 ## Épületek ahol vannak az óráim
 
-* NRLC
+* NRRC
 * B
 * A
 * KTK
